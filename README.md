@@ -2,7 +2,7 @@
 
 Este projeto consiste em um componente customizado desenvolvido em **Lightning Web Components (LWC)** e **Apex** para otimizar a gestão e visualização de contatos diretamente na página de registros de Conta (`Account`) no Salesforce. 
 
-O componente foi desenhado para ser reativo, performático e integrado nativamente à interface do Lightning Experience, conforme ilustrado na evidência do ambiente (`FireShot Capture 014 - Atualização via batch atráves de um agendamento - Account - Salesfo_ - [curious-panda-2wy2j3-dev-ed.trailblaze.lightning.force.com].png`).
+O componente foi desenhado para ser reativo, performático e integrado nativamente à interface do Lightning Experience, conforme ilustrado na evidência do ambiente (`foto.png`).
 
 ---
 

@@ -1,0 +1,12 @@
+public class ContactController {
+
+	@AuraEnabled(cacheable = true)
+	public static List<contact> getContactsByAccountId(String contaId) {
+		return[
+			SELECT
+				Id, Name, Email, Phone,Title
+				FROM Contact
+				WHERE AccountId =:contaId
+		];
+	}
+}

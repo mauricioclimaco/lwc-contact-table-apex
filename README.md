@@ -37,13 +37,3 @@ O projeto está estruturado seguindo o padrão de desenvolvimento do Salesforce 
 ### 2. Back-end (Apex Controller)
 
 * **`ContactController.cls`**: Classe controladora responsável por disponibilizar o método `getContactsByAccountId` para o ecossistema Lightning.
-
----
-
-## 🛠️ Como Implantar e Usar
-
-1. Certifique-se de implantar a classe `ContactController` e o componente `contactTable` na sua Org Salesforce utilizando o VS Code ou Salesforce CLI.
-2. Acesse uma página de registro de **Conta** (`Account`) no Lightning Experience.
-3. Clique no ícone de engrenagem e selecione **Editar Página** (Edit Page).
-4. Localize o componente customizado `contactTable` no menu esquerdo e arraste-o para a posição desejada na tela (como a barra lateral direita).
-5. Salve e ative a página.
